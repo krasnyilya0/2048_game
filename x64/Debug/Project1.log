@@ -1,0 +1,9 @@
+﻿  Game_2048.cpp
+C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\Game_2048.cpp(48,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\Game_2048.cpp(48,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\Game_2048.cpp(58,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\Game_2048.cpp(58,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\Game_2048.cpp(113): warning C4715: 'Game::get': not all control paths return a value
+  main.cpp
+  LINK : C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\x64\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\x64\Debug\Project1.exe
