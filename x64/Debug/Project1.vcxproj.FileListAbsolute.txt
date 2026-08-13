@@ -1,3 +1,0 @@
-C:\Users\krasn\source\repos\Project1\x64\Debug\Project1.exe
-C:\Users\krasn\Desktop\Project1\x64\Debug\Project1.exe
-C:\Users\krasn\Desktop\Ilya_Krasnyy_2048_game\x64\Debug\Project1.exe
